@@ -1,5 +1,5 @@
 # 💫 About Me:
-Platform Advocate. Proponent of everything opensource. Engineer with extensive experience in Data Infrastructure : Distributed Data Mesh. Developer Experience patron.Sustainability enthusiast. Community Contributor. Invested in Digital Public Goods, Population scale SaaS. Always up for taking on the next big challenge. Continuously learning , big on reading.
+Platform Advocate. Proponent of everything opensource. Engineer with extensive experience in Data Infrastructure: Distributed Data Mesh. Developer Experience patron. Sustainability enthusiast. Community Contributor. Invested in Digital Public Goods, Population scale SaaS. Always up for taking on the next big challenge. Continuously learning, big on reading.
 
 
 ## 🌐 Socials:
